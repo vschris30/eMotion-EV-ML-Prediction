@@ -19,7 +19,7 @@ This repository includes two Jupyter Notebooks:
 * Correlation Heatmaps & Feature Engineering
 * Regression Modeling (Linear, Ridge, etc.)
 * Model Evaluation with R², MAE, RMSE
-* PNG graphs + PDF report
+* PNG graph PDF report
 
 ### ✍️ Author
 - [V S Chris](https://www.linkedin.com/in/vschris/)
