@@ -3,5 +3,3 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-fpdf
-Pillow
