@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 
 # Load dataset
-df = pd.read_csv("eMotion_EV_Performance_and_Price_Dataset.csv")
+df = pd.read_csv(r"D:\Old desktop\Documents\Downloads\eMotion_EV_Performance_and_Price_Dataset.csv")
 
 st.set_page_config(page_title="eMotion EV Dashboard", layout="wide")
 st.title("eMotion: EV Performance & Price Dashboard")
